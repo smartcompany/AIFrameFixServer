@@ -2,12 +2,12 @@
   "ios_ad": "rewarded_ad",
   "android_ad": "rewarded_ad",
   "ios_ads": [
-    {"initial_ad": 5},
-    {"rewarded_ad": 1}
+    {"rewarded_test": 5},
+    {"rewarded_test": 1}
   ],
   "android_ads": [
-    {"initial_ad": 5},
-    {"rewarded_ad": 1}
+    {"rewarded_test": 5},
+    {"rewarded_test": 1}
   ],
   "ref": {
     "ios": {
