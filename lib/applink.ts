@@ -3,13 +3,13 @@ export const SITE_ORIGIN = "https://ai-frame-fix-server.vercel.app";
 export const APP_DISPLAY_NAME = "AI Video Frame Extract";
 
 export const IOS_APP_STORE_WEB =
-  "https://apps.apple.com/us/app/ai-video-frame-extract/id6757664175";
+  "https://apps.apple.com/app/id6757664175";
 
 export const PLAY_STORE_WEB =
   "https://play.google.com/store/apps/details?id=com.smartcompany.aiFrameFix";
 
 export const IOS_APP_STORE_ITMS =
-  "itms-apps://apps.apple.com/us/app/ai-video-frame-extract/id6757664175";
+  "itms-apps://apps.apple.com/app/id6757664175";
 
 export const PLAY_STORE_MARKET =
   "market://details?id=com.smartcompany.aiFrameFix";
